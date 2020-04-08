@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/githolio/static/js/main.433d0626.chunk.js",
+    "main.js.map": "/githolio/static/js/main.433d0626.chunk.js.map",
+    "runtime-main.js": "/githolio/static/js/runtime-main.ebad2350.js",
+    "runtime-main.js.map": "/githolio/static/js/runtime-main.ebad2350.js.map",
+    "static/js/2.51098665.chunk.js": "/githolio/static/js/2.51098665.chunk.js",
+    "static/js/2.51098665.chunk.js.map": "/githolio/static/js/2.51098665.chunk.js.map",
+    "index.html": "/githolio/index.html",
+    "precache-manifest.d880f04a3864e2fa8ef9763437f4b475.js": "/githolio/precache-manifest.d880f04a3864e2fa8ef9763437f4b475.js",
+    "service-worker.js": "/githolio/service-worker.js",
+    "static/js/2.51098665.chunk.js.LICENSE.txt": "/githolio/static/js/2.51098665.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebad2350.js",
+    "static/js/2.51098665.chunk.js",
+    "static/js/main.433d0626.chunk.js"
+  ]
+}
