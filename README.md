@@ -1,4 +1,4 @@
 # githolio
-<h2>Github Portfolio PWA using Github Public API<\h2>
-The site is published at https://aladearchives.github.io/githolio/
+<h2>Github Portfolio PWA using Github Public API
+<p>The site is published at https://aladearchives.github.io/githolio/
 
