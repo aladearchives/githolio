@@ -1,5 +1,5 @@
 # githolio
-Githolio is a React Github Portfolio PWA that uses Github Public API to display my Github Profile information 
+Githolio is a React Github Portfolio PWA that uses Github Public API to display my Github Profile information and Projects
 
 
 ## Website
